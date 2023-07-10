@@ -7,16 +7,18 @@ assignees: ''
 
 ---
 
-Project Name:
+Project Name: `[project name]`
+
+Point of Contact: `[your name], [your org]`
+
+Code License [mark only one]:
+- [ ] This project will be licensed under a permissible open source license (MIT or similar)
+- [ ] Other
 
 Project Type [mark only one]:
 - [ ] This is a project that primarily uses JavaScript/TypeScript 
 - [ ] This is an AI/ML/NLP project that uses Python 
 - [ ] This project does not fall within the above two categories
-
-Code License [mark only one]:
-- [ ] This project will be licensed under a permissible open source license (MIT or similar)
-- [ ] Other
 
 Users of this software [mark all that apply]:
 - [ ] Users are within our organization
@@ -28,10 +30,24 @@ Are you willing to break your project into decoupled components and work with ot
 - [ ] No
 - [ ] Maybe
 
-Project Description (<500 words):
+Project Description (<500 words): 
+
+> [product description]
 
 User Stories (<200 words per story, please include all user stories):
 
+> [user story]
+> [user story]
+
 Project Milestones (by calendar, person-hour, day, whatever):
 
-Finally: Add GitHub Issue Labels for all data and software deliverables that apply.
+> [milestone]
+> [milestone]
+
+***Add GitHub Issue Labels for all data and software deliverables that apply.***
+
+Overlap with other known proposals:
+
+> [overlap]
+
+> [overlap]
