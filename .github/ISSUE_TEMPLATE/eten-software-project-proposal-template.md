@@ -37,12 +37,14 @@ Project Description (<500 words):
 User Stories (<200 words per story, please include all user stories):
 
 > [user story]
-> [user story]
+
+> [user story]  
 
 Project Milestones (by calendar, person-hour, day, whatever):
 
 > [milestone]
-> [milestone]
+
+> [milestone]  
 
 ***Add GitHub Issue Labels for all data and software deliverables that apply.***
 
