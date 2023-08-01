@@ -1,1 +1,1 @@
-# eten-project-proposals
+# iLab-project-proposals
